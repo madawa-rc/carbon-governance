@@ -1,11 +1,7 @@
 # carbon-governance
 ---
 
-|  Branch | Build Status |
-| :------------ |:-------------
-| Java 7      | [![Build Status](https://wso2.org/jenkins/job/carbon-governance/badge/icon)](https://wso2.org/jenkins/job/carbon-governance) |
-| Java 8 | [![Build Status](https://wso2.org/jenkins/job/carbon-governance__java8/badge/icon)](https://wso2.org/jenkins/job/carbon-governance__java8/) |
-
+[![Build Status](https://travis-ci.org/madawas/carbon-governance.svg?branch=builder)](https://travis-ci.org/madawas/carbon-governance)
 
 ---
 
